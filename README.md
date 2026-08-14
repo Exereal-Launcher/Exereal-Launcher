@@ -1,5 +1,4 @@
-# Exereal Launcher
-
+# <p align="center">Exereal Launcher</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-Launcher-green?style=flat-square" alt="Minecraft Launcher">
   <img src="https://img.shields.io/badge/status-в разработке-yellow?style=flat-square" alt="Status">
@@ -42,7 +41,6 @@ npm run dev
 npm run build
 ```
 
-
 ## 📋 Требования
 
 - Windows 10/11, macOS* или Linux*
@@ -77,7 +75,7 @@ npm run build
 
 ## 📬 Контакты
 
-- Telegram: [@yourusername](https://t.me/Exorned)
+- Telegram: [@Exorned](https://t.me/Exorned)
 - Discord: [Сервер проекта](https://discord.gg/)(скоро)
 
 ---
