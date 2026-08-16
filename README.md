@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License">
 </p>
 
-**Exereal Launcher** — быстрый, лёгкий и удобный лаунчер для Minecraft с поддержкой модов, сборок и кастомизации.
+**Exereal Launcher** - быстрый, лёгкий и удобный лаунчер для Minecraft с поддержкой модов, сборок и кастомизации.
 
 ## ✨ Возможности
 
