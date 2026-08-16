@@ -75,7 +75,7 @@ npm run build
 
 ## 📬 Контакты
 
-- Telegram: [@Exorned](https://t.me/Exorned)
+- Telegram: [@ExerealLauncher](https://t.me/ExerealLauncher)
 - Discord: [Сервер проекта](https://discord.gg/)(скоро)
 
 ---
